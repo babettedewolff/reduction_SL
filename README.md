@@ -1,5 +1,5 @@
 # reduction_SL
-Mathematica code that performs a second order phase reduction for two-coupled Stuart-Landau oscillators. 
+The file "SL_reduction_github.nb" contains the Mathematica code that performs a second order phase reduction for two-coupled Stuart-Landau oscillators. 
 
 Input: the function "coupling" defines the coupling between the two oscillators, here chosen as a delayed mean field. 
 Output: 
